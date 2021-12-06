@@ -1,0 +1,11 @@
+This Project controls the light system of the room using smart light sensor and ATmega32
+
+Application: This folder contains the application and device drivers.
+
+Design: This folder contains proteus design and hex file
+
+AVR_Application.hex: This is the hex file to be burnt on the MCU
+
+Video Demo: The video demo of the project
+
+
