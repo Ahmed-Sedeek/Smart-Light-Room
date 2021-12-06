@@ -1,4 +1,5 @@
-This Project controls the light system of the room using smart light sensor and ATmega32
+This Project controls the light system of the room using smart light sensor and ATmega32, this
+project is attached with a video demo.
 
 Application: This folder contains the application and device drivers.
 
